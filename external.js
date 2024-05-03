@@ -157,7 +157,7 @@
         checkScroll();
         if (isAutoLikeEnabled()) {
           //自动点赞
-          autoLike();
+          //autoLike();
         }
       }
     }
