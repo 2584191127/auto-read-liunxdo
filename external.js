@@ -155,10 +155,6 @@
         console.log("执行正常的滚动和检查逻辑");
         // 执行正常的滚动和检查逻辑
         checkScroll();
-        if (isAutoLikeEnabled()) {
-          //自动点赞
-          //autoLike();
-        }
       }
     }
   });
